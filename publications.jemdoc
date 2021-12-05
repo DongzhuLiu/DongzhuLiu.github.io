@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= Publications
+
+== Book Chapter  
+. *D. Liu*, A. Sonee, O. Simeone, and S. Rini, "Differentially Private Wireless Federated Learning," submitted, Book Chapter in /Machine Learning and Wireless Communications/, (editors: A. Goldsmith, D. Gunduz, H. V. Poor, and Y. Eldar), Cambridge University Press.
+
+== Journal Article 
+. *D. Liu* and O. Simeone, "Wireless Federated Langevin Monte Carlo: Repurposing Channel Noise for Bayesian Sampling and Privacy," submitted to IEEE Trans. Wireless Commun. [https://arxiv.org/pdf/2108.07644.pdf \[Paper\]]
+. *D. Liu* and O. Simeone, "Channel-Driven Monte Carlo Sampling for Bayesian Distributed Learning in Wireless Data Centers," to appear in IEEE Journal on  Sel. Area Commun. [https://arxiv.org/pdf/2103.01351.pdf \[Paper\]]
+. *D. Liu* and O. Simeone, "Privacy For Free: Wireless Federated Learning Via Uncoded Transmission With Adaptive Power Control," IEEE Journal on  Sel. Area Commun., vol. 39, no. 1, pp. 170-185, Jan. 2021. [https://arxiv.org/pdf/2006.05459.pdf \[Paper\]] 
+. *D. Liu*, G. Zhu, Q. Zeng, J. Zhang, and K. Huang, "Wireless Data Acquisition for Edge Learning: Data-Importance Aware Retransmission," IEEE Trans. Wireless Commun., vol. 20, no. 1, pp. 406-420, Jan. 2021. [https://arxiv.org/pdf/1812.02030.pdf \[Paper\]] 
+. *D. Liu*, G. Zhu, J. Zhang, and K. Huang, "Data-Importance Aware User Scheduling for Communication-Efficient Edge Machine Learning," IEEE Trans. on Cognitive Commun. Netw.,  vol. 7, no. 1, pp. 265-278, Mar. 2021. [https://arxiv.org/pdf/1910.02214.pdf \[Paper\]]
+. G. Zhu, *D. Liu*, Y. Du, C. You, J. Zhang, and K. Huang, "Toward an Intelligent Edge: Wireless Communication Meets Machine Learning," IEEE Commun. Magazine., vol. 58, no. 1, pp. 19-25, January 2020. [https://arxiv.org/pdf/1809.00343.pdf \[Paper\]]
+. *D. Liu* and K. Huang, "Mitigating Interference in Content Delivery Networks by Spatial Signal Alignment: The Approach of Shot-Noise Ratio," IEEE Trans. on Wireless Commun.,vol. 17, no. 4, pp 2305-2318, 2018. [https://arxiv.org/pdf/1704.02275.pdf \[Paper\]]
+
+== Conference Paper
+
+. *D. Liu*, G. Zhu, J. Zhang, and K. Huang, "Exploiting Diversity Via Importance-Aware User Scheduling for Fast Edge Learning,"  Proc. of IEEE Intl. Conf. Commun. (ICC) Workshop, Dublin, 2020.
+. *D. Liu*, G. Zhu, J. Zhang, and K. Huang, "Wireless Data Acquisition for Edge Learning: Importance Aware Retransmission," Proc. of IEEE Intl. Workshop on Signal Process. Advances in Wireless Commun. (SPAWC), Cannes, 2019. (Invited Paper)
+. K. Huang, G. Zhu, C. You,  J. Zhang, Y. Du, and *D. Liu*, "Communication, Computing, and Learning on the Edge," Proc. of IEEE Intl. Conf. on Commun. Systems.(ICCS), Chengdu, 2018. (Invited Paper)
+. *D. Liu* and K. Huang, "Harnessing Interference in Content Delivery by Spatial Signal Alignment," Proc. of IEEE Globecom, Singapore, 2017.
+
+
