@@ -5,7 +5,7 @@
 . *D. Liu*, A. Sonee, O. Simeone, and S. Rini, "Differentially Private Wireless Federated Learning," submitted, Book Chapter in /Machine Learning and Wireless Communications/, (editors: A. Goldsmith, D. Gunduz, H. V. Poor, and Y. Eldar), Cambridge University Press.
 
 == Journal Article 
-. M. Guo, *D. Liu*, O. Simeone, and D. Wen, "Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning," submitted to IEEE Wireless Communications Letters. 
+. M. Guo, *D. Liu*, O. Simeone, and D. Wen, "Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning," submitted to IEEE Trans. Veh. Technol.
 . M. Zhang, Y. Li, *D. Liu*, R. Jin, G. Zhu, and C. Zhong,  "Joint Compression and Deadline Optimization for Wireless Federated Learning," to appear in IEEE Trans. Mob. Comput. [https://arxiv.org/pdf/2305.03969.pdf \[Paper\]]
 . H. Xing, G. Zhu, *D. Liu*, H. Wen, K. Huang, and K. Wu,  "Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI, " IEEE Network, vol. 37, no. 4, pp. 135-144, Oct. 2023. [https://arxiv.org/pdf/2306.06603.pdf \[Paper\]]
 . *D. Liu* and O. Simeone, "Wireless Federated Langevin Monte Carlo: Repurposing Channel Noise for Bayesian Sampling and Privacy," IEEE Trans. Wireless Commun., vol. 22, no. 5, pp. 2946-2961, May 2023. [https://arxiv.org/pdf/2108.07644.pdf \[Paper\]]
@@ -17,6 +17,7 @@
 . *D. Liu* and K. Huang, "Mitigating Interference in Content Delivery Networks by Spatial Signal Alignment: The Approach of Shot-Noise Ratio," IEEE Trans. on Wireless Commun.,vol. 17, no. 4, pp 2305-2318, 2018. [https://arxiv.org/pdf/1704.02275.pdf \[Paper\]]
 
 == Conference Paper
+. M Zhang, Z Cai, *D Liu*, R Jin, G Zhu, and C Zhong, "Joint Compression and Deadline Optimization for Communication-Efficient Federated Edge Learning," Proc. of IEEE Globecom Workshop, Kuala Lumpur, Dec. 2023.
 . B. Zhang, *D. Liu*, O. Simeone, and G. Zhu, "Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient Langevin Dynamics," Proc. of IEEE Globecom, Kuala Lumpur, Dec. 2023.
 . Y. Zhang, *D. Liu*, and O. Simeone, "Leveraging Channel Noise for Sampling and Privacy via Quantized Federated Langevin Monte Carlo," Proc. of IEEE Intl. Workshop on Signal Process. Advances in Wireless Commun. (SPAWC), Oulu, 2022. (Invited Paper)
 . *D. Liu*, G. Zhu, J. Zhang, and K. Huang, "Exploiting Diversity Via Importance-Aware User Scheduling for Fast Edge Learning,"  Proc. of IEEE Intl. Conf. Commun. (ICC) Workshop, Dublin, 2020.
