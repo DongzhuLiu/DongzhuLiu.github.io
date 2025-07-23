@@ -5,8 +5,8 @@
 . *D. Liu*, A. Sonee, O. Simeone, and S. Rini, "Differentially Private Wireless Federated Learning," submitted, Book Chapter in /Machine Learning and Wireless Communications/, (editors: A. Goldsmith, D. Gunduz, H. V. Poor, and Y. Eldar), Cambridge University Press.
 
 == Journal Article 
-. M. Guo, *D. Liu*, O. Simeone, and D. Wen, "Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning," submitted to IEEE Trans. Veh. Technol.
-. M. Zhang, Y. Li, *D. Liu*, R. Jin, G. Zhu, and C. Zhong,  "Joint Compression and Deadline Optimization for Wireless Federated Learning," to appear in IEEE Trans. Mob. Comput. [https://arxiv.org/pdf/2305.03969.pdf \[Paper\]]
+. M. Guo, *D. Liu*, O. Simeone, and D. Wen, "Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning," IEEE Trans. Veh. Technol., vol. 74, no. 4, pp. 6811-6816, April 2025.  [https://eprints.gla.ac.uk/346358/1/346358.pdf \[Paper\]] 
+. M. Zhang, Y. Li, *D. Liu*, R. Jin, G. Zhu, and C. Zhong, "Joint Compression and Deadline Optimization for Wireless Federated Learning," IEEE Trans. Mob. Comput., vol. 23, no. 7, pp. 7939-7951, July 2024.  [https://arxiv.org/pdf/2305.03969 \[Paper\]]
 . H. Xing, G. Zhu, *D. Liu*, H. Wen, K. Huang, and K. Wu,  "Task-Oriented Integrated Sensing, Computation and Communication for Wireless Edge AI, " IEEE Network, vol. 37, no. 4, pp. 135-144, Oct. 2023. [https://arxiv.org/pdf/2306.06603.pdf \[Paper\]]
 . *D. Liu* and O. Simeone, "Wireless Federated Langevin Monte Carlo: Repurposing Channel Noise for Bayesian Sampling and Privacy," IEEE Trans. Wireless Commun., vol. 22, no. 5, pp. 2946-2961, May 2023. [https://arxiv.org/pdf/2108.07644.pdf \[Paper\]]
 . *D. Liu* and O. Simeone, "Channel-Driven Monte Carlo Sampling for Bayesian Distributed Learning in Wireless Data Centers," IEEE Journal on  Sel. Area Commun., vol. 40, no. 2, pp. 562-577, Oct. 2021. [https://arxiv.org/pdf/2103.01351.pdf \[Paper\]]
@@ -17,6 +17,9 @@
 . *D. Liu* and K. Huang, "Mitigating Interference in Content Delivery Networks by Spatial Signal Alignment: The Approach of Shot-Noise Ratio," IEEE Trans. on Wireless Commun.,vol. 17, no. 4, pp 2305-2318, 2018. [https://arxiv.org/pdf/1704.02275.pdf \[Paper\]]
 
 == Conference Paper
+. M. Yang, G. Liang, *D. Liu*, L. Zhang, and K. Huang, "Channel Capacity-Aware Distributed Encoding for Multi-View Sensing and Edge Inference," Proc. of IEEE Intl. Conf. Comm. (ICC), Montreal, June 2025. 
+. B Zhang, *D Liu*, O Simeone, G Wang, D Pezaros, and G Zhu, "Personalizing Low-Rank Bayesian Neural Networks Via Federated Learning," Proc. of Artificial Intelligence and Statistics Conference (AISTATS), Mai Khao, May 2025.  [https://arxiv.org/pdf/2410.14390? \[Paper\]]  
+. Y. Liu, D. Liu, R. Jin, G.Zhu, and Q. Shi, "Over-the-Air Federated Edge Learning with Error-Feedback One-Bit Quantization and Power Control," Proc. of IEEE Intl. Conf. Comput. Comm. (ICCC), Chengdu, Dec. 2024. 
 . M Zhang, Z Cai, *D Liu*, R Jin, G Zhu, and C Zhong, "Joint Compression and Deadline Optimization for Communication-Efficient Federated Edge Learning," Proc. of IEEE Globecom Workshop, Kuala Lumpur, Dec. 2023.
 . B. Zhang, *D. Liu*, O. Simeone, and G. Zhu, "Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient Langevin Dynamics," Proc. of IEEE Globecom, Kuala Lumpur, Dec. 2023.
 . Y. Zhang, *D. Liu*, and O. Simeone, "Leveraging Channel Noise for Sampling and Privacy via Quantized Federated Langevin Monte Carlo," Proc. of IEEE Intl. Workshop on Signal Process. Advances in Wireless Commun. (SPAWC), Oulu, 2022. (Invited Paper)
